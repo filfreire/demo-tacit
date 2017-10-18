@@ -1,0 +1,24 @@
+{
+  "name": "demo-tacit",
+  "version": "1.0.0",
+  "description": "Example demonstration of Tacit CSS Framework (github.com/yegor256/tacit)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filfreire/demo-tacit.git"
+  },
+  "keywords": [
+    "tacit",
+    "css",
+    "html"
+  ],
+  "author": "Filipe Freire (github.com/filfreire)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filfreire/demo-tacit/issues"
+  },
+  "homepage": "https://github.com/filfreire/demo-tacit#readme"
+}
