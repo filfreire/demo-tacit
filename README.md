@@ -3,7 +3,7 @@ Example demonstration of Tacit CSS Framework (github.com/yegor256/tacit)
 
 ## License (MIT)
 
-Copyright (c) 2017 Filipe Freire
+Copyright (c) 2017-2018 Filipe Freire
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
